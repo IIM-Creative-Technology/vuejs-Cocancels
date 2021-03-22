@@ -1,3 +1,5 @@
+Projet réalisé par Corentin Ancel et Kélian Raoult-Sevrec
+
 # cms_vue_js
 
 ## Project setup
